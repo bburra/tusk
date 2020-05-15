@@ -4,9 +4,6 @@ Kheer
 Pasta
 Chicken fry ..light weight
 
-Pizza
-Beans
-
-Creating in a new branch....
+Removed pizza beans and creating a second new branch....
 
 Thank you:)
